@@ -17,11 +17,11 @@
 LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := NovaLauncher
-LOCAL_SRC_FILES := NovaLauncher.apk
+LOCAL_MODULE := OpenCamera
+LOCAL_SRC_FILES := OpenCamera.apk
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .apk
 LOCAL_MODULE_CLASS := APPS
 LOCAL_CERTIFICATE := PRESIGNED
-LOCAL_OVERRIDES_PACKAGES := Home Launcher2 Launcher3
+LOCAL_OVERRIDES_PACKAGES := Camera Camera2 DevCamera
 include $(BUILD_PREBUILT)
