@@ -1,5 +1,5 @@
 Open Camera
 =============
 
-This Camera is used in DesolationRom under GPL v3 (https://sourceforge.net/projects/opencamera)
-----------------------------------------------------------------------------------
+This Camera is used in various projects under GPL v3 (https://sourceforge.net/projects/opencamera)
+--------------------------------------------------------------------------------------------------
